@@ -97,7 +97,6 @@ Para execução do projeto foram assumidas algumas premissas, tais como:
 
 7. Criação de um web aṕp permitindo que o CEO visualize dados e as relações entre eles
 
-8. Conclusão
 
 ## Insights
 
@@ -124,7 +123,7 @@ Para execução do projeto foram assumidas algumas premissas, tais como:
 
 ## Resultados
 
-O dashbord construido no Streamlit e hospedado pela Heroko CLouf pode ser acessado pelo seguinte link
+O dashbord construido no Streamlit e hospedado pela Heroko CLouf pode ser acessado pelo seguinte link: https://analytics-house-rocket-data.herokuapp.com/
 
 ## Conclusão
 
